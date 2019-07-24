@@ -12,3 +12,8 @@
 以下為偵測成功錄影檔
 
 https://youtu.be/x7KwT4Mp_Ow
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBEx7KwT4Mp_Ow
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBEx7KwT4Mp_Ow/0.jpg" 
+alt="圖片 ALT 文字放在這裡" width="240" height="180" border="10" /></a>
