@@ -11,6 +11,4 @@
 
 以下為偵測成功錄影檔
 
-```php
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x7KwT4Mp_Ow" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
+https://youtu.be/x7KwT4Mp_Ow
