@@ -3,7 +3,7 @@
 
 在上方連結的Github中皆有詳細的安裝與操作說明
 ------
-我個人訓練完成後的權重![image]( "權重結果")
+我個人訓練完成後的權重![image](https://github.com/jacky55121/Objection-Detection/blob/master/train%20result.PNG "權重結果")
 
 [權重連結](https://drive.google.com/drive/folders/1NpXhPza0vcsuFr2_1mJ71jqNE1YnWVnD?usp=sharing)
 
